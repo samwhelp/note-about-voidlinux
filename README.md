@@ -38,6 +38,12 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Voidlinux Xfce 探索筆記](https://samwhelp.github.io/note-about-voidlinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-voidlinux-xfce) |
+| [Voidlinux Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-voidlinux-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-voidlinux--kde-plasma) |
+| [Voidlinux Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-voidlinux-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-voidlinux-gnome-shell) |
+| [Voidlinux Cinnamon 探索筆記](https://samwhelp.github.io/note-about-voidlinux-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-voidlinux-cinnamon) |
+| [Voidlinux Mate 探索筆記](https://samwhelp.github.io/note-about-voidlinux-mate/) | [GitHub](https://github.com/samwhelp/note-about-voidlinux-mate) |
+| [Voidlinux Lxqt 探索筆記](https://samwhelp.github.io/note-about-voidlinux-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-voidlinux-lxqt) |
+| [Voidlinux Lxde 探索筆記](https://samwhelp.github.io/note-about-voidlinux-lxde/) | [GitHub](https://github.com/samwhelp/note-about-voidlinux-lxde) |
 
 
 
