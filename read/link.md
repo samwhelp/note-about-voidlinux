@@ -4,7 +4,10 @@ nav_order: 9000
 has_children: true
 ---
 
+
 # 連結
+
+
 
 
 ## Void Linux
@@ -14,6 +17,8 @@ has_children: true
 * [Docs](https://docs.voidlinux.org/)
 * [Manpage](https://man.voidlinux.org/)
 * [https://alpha.de.repo.voidlinux.org/live/current/](https://alpha.de.repo.voidlinux.org/live/current/)
+
+
 
 
 ## Just the Docs
