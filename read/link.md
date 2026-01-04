@@ -16,7 +16,7 @@ has_children: true
 * [Packages](https://voidlinux.org/packages/)
 * [Docs](https://docs.voidlinux.org/)
 * [Manpage](https://man.voidlinux.org/)
-* [https://alpha.de.repo.voidlinux.org/live/current/](https://alpha.de.repo.voidlinux.org/live/current/)
+* [https://repo-default.voidlinux.org/live/current/](https://repo-default.voidlinux.org/live/current/)
 
 
 
